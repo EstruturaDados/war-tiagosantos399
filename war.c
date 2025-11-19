@@ -64,4 +64,5 @@ void mostrarFormacao(const Territorio *territorios, int quantidade) {
                territorios[i].tropas);
     }
     
-    printf("-----------------------------------------\n");l  
+    printf("-----------------------------------------\n");
+    
